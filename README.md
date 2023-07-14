@@ -19,15 +19,15 @@
 📂 2023-Herethon-1
 └─ herethon1
  │
- ├─ herethon1
+ ├─ 📂 herethon1
  │  ├─ __init__.py
  │  ├─ asgi.py
  │  ├─ settings.py
  │  ├─ urls.py
  │  └─ wsgi.py
  │
- ├─ account
- │  ├─ templates
+ ├─ 📂 account
+ │  ├─ 📂 templates
  │  │	├─ admin_page.html
  │  │	├─ form_errors.html
  │  │	├─ index.html
@@ -51,9 +51,9 @@
  │  ├─ urls.py
  │  └─ views.py
  │
- ├─ boardapp
- │  ├─ templates
- │  │	  └─ board
+ ├─ 📂 boardapp
+ │  ├─ 📂 templates
+ │  │	  └─ 📂 board
  │  │	 	  ├─ board_detail.html
  │  │	 	  ├─ board_list.html
  │  │	 	  ├─ board_post.html
@@ -70,12 +70,12 @@
  │  ├─ urls.py
  │  └─ views.py
  │
- ├─ image
+ ├─ 📂 image
  │
- ├─ profile
+ ├─ 📂 profile
  │  └─ user.png
  │
- ├─ templates
+ ├─ 📂 templates
  │  └─ base.html
  │
  ├─ .env
