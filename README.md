@@ -12,3 +12,80 @@
     </tr>
   </tbody>
 </table>
+
+## 📂폴더 구조
+```css
+
+📂 2023-Herethon-1
+└─ herethon1
+ │
+ ├─ herethon1
+ │  ├─ __init__.py
+ │  ├─ asgi.py
+ │  ├─ settings.py
+ │  ├─ urls.py
+ │  └─ wsgi.py
+ │
+ ├─ account
+ │  ├─ templates
+ │  │	├─ admin_page.html
+ │  │	├─ form_errors.html
+ │  │	├─ index.html
+ │  │	├─ login.html
+ │  │	├─ my_page.html
+ │  │	├─ my_page_update.html
+ │  │	├─ password_reset.html
+ │  │	├─ password_reset_complete.html
+ │  │	├─ password_reset_confirm.html
+ │  │	├─ password_reset_done.html
+ │  │	├─ password_reset_email.txt
+ │  │	├─ profile_page.html
+ │  │	└─ signup.html
+ │  │
+ │  ├─ __init__.py
+ │  ├─ admin.py
+ │  ├─ apps.py
+ │  ├─ forms.py
+ │  ├─ models.py
+ │  ├─ tests.py
+ │  ├─ urls.py
+ │  └─ views.py
+ │
+ ├─ boardapp
+ │  ├─ templates
+ │  │	  └─ board
+ │  │	 	  ├─ board_detail.html
+ │  │	 	  ├─ board_list.html
+ │  │	 	  ├─ board_post.html
+ │  │	 	  ├─ comment_edit.html
+ │  │	 	  ├─ done_list.html
+ │  │	 	  └─ search.html
+ │  │
+ │  ├─ __init__.py
+ │  ├─ admin.py
+ │  ├─ apps.py
+ │  ├─ forms.py
+ │  ├─ models.py
+ │  ├─ tests.py
+ │  ├─ urls.py
+ │  └─ views.py
+ │
+ ├─ image
+ │
+ ├─ profile
+ │  └─ user.png
+ │
+ ├─ templates
+ │  └─ base.html
+ │
+ ├─ .env
+ │
+ ├─ db.sqlite3
+ │
+ ├─ main.py
+ │
+ ├─ manage.py
+ │
+ └─ README.md
+
+```
