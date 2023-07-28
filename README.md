@@ -1,105 +1,51 @@
-## ⚙️기술 스택
+# 2023-Hakerthon-DEVCO
 
-#### ✔️ 기획디자인
-<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+2023 해커톤 : HAKERTHON HYANGWOMAN UNIV - DEVCO
 
-#### ✔️ 프론트엔드
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+## ⭐ 서비스 소개
 
-#### ✔️ 백엔드
-<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+#### 재난 문자, 매번 우리 지역만 알 수 있는게 답답하지 않았나요?
 
-#### ✔️ 협업도구
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-## 😎팀원소개
+#### 혹시나 다른 지역에 살고 있는 나의 가족이 걱정되지는 않았나요?
+
+
+#### 타지역의 재난 문자와 문자로 오지않았지만 시민 제보로 알 수 있는 웹 서비스 "재난이" 입니다.
+
+<br>
+
+## ⚙️ 기술 스택
+
+Front End : <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <br>
+Back End : <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br>
+Design : <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <br>
+Communication : <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/googlemeet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <br>
+Evironment : <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/pycharm-#000000?style=for-the-badge&logo=pycharm-&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+
+## 👥 팀원 소개
+
+
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/SurfingLouis"><img src="https://avatars.githubusercontent.com/u/113294984?v=4" width="100px;" alt=""/><br /><sub><b>FE 팀장 : 이지현</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/pookey1104"><img src="https://avatars.githubusercontent.com/u/90364700?v=4" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 김서윤</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/pjh402941"><img src="https://avatars.githubusercontent.com/u/104891747?v=4" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 박주희</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="width="100px;" alt=""/><br /><sub><b>FE 팀장 : </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
      <tr/>
-      <td align="center"><a href="https://github.com/kimjy01"><img src="https://avatars.githubusercontent.com/u/115777730?v=4" width="100px;" alt=""/><br /><sub><b>BE 팀원 : 김지연</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/fjqmqjrm"><img src="https://avatars.githubusercontent.com/u/126189239?v=4" width="100px;" alt=""/><br /><sub><b>BE 팀원 : 박서윤</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/y-won1209"><img src="https://avatars.githubusercontent.com/u/127853111?v=4" width="100px;" alt=""/><br /><sub><b>BE 팀원 : 심예원</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>BE 부팀장 : </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>BE 팀원 : </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>BE 팀원 : </b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
 
-## 📂폴더 구조
-```css
 
-📂 2023-Herethon-1
-└─ herethon1
- │
- ├─ 📂 herethon1
- │  ├─ __init__.py
- │  ├─ asgi.py
- │  ├─ settings.py
- │  ├─ urls.py
- │  └─ wsgi.py
- │
- ├─ 📂 account
- │  ├─ 📂 templates
- │  │	├─ admin_page.html
- │  │	├─ form_errors.html
- │  │	├─ index.html
- │  │	├─ login.html
- │  │	├─ my_page.html
- │  │	├─ my_page_update.html
- │  │	├─ password_reset.html
- │  │	├─ password_reset_complete.html
- │  │	├─ password_reset_confirm.html
- │  │	├─ password_reset_done.html
- │  │	├─ password_reset_email.txt
- │  │	├─ profile_page.html
- │  │	└─ signup.html
- │  │
- │  ├─ __init__.py
- │  ├─ admin.py
- │  ├─ apps.py
- │  ├─ forms.py
- │  ├─ models.py
- │  ├─ tests.py
- │  ├─ urls.py
- │  └─ views.py
- │
- ├─ 📂 boardapp
- │  ├─ 📂 templates
- │  │	  └─ 📂 board
- │  │	 	  ├─ board_detail.html
- │  │	 	  ├─ board_list.html
- │  │	 	  ├─ board_post.html
- │  │	 	  ├─ comment_edit.html
- │  │	 	  ├─ done_list.html
- │  │	 	  └─ search.html
- │  │
- │  ├─ __init__.py
- │  ├─ admin.py
- │  ├─ apps.py
- │  ├─ forms.py
- │  ├─ models.py
- │  ├─ tests.py
- │  ├─ urls.py
- │  └─ views.py
- │
- ├─ 📂 image
- │
- ├─ 📂 profile
- │  └─ user.png
- │
- ├─ 📂 templates
- │  └─ base.html
- │
- ├─ .env
- │
- ├─ db.sqlite3
- │
- ├─ main.py
- │
- ├─ manage.py
- │
- └─ README.md
+<br>
 
-```
+
+<br>
+
